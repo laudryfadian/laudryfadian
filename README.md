@@ -5,7 +5,7 @@ Now working as Backend Developer, Node js & Golang.
  <summary><strong>My short profile</strong></summary>
     - 🔭 I’m currently working as Backend Developer </br>
     - 🌱 I’m currently learning Golang, Flutter, Vue js </br>
-    - 👯 Now I am also studying at the Malang State Polytechnic, majoring in Diploma 3 Information Management</br>
+    - 👯 Now I am also studying at the Malang State Polytechnic, majoring in Diploma 4 Informatics Engineering</br>
     - 🤔 Although in my office as a backend developer. but in my campus as a frontend developer, Flutter & Vue js. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:skakmate87@gmail.com">Email me!</a>  </br>
