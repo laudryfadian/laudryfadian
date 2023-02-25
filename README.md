@@ -13,7 +13,6 @@ Now working as Backend Developer, Node js & Golang.
     - ⚡ Fun fact: I want to be fullstack developer </br>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=laudryfadian&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laudryfadian&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
